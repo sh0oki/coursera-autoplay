@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Coursera - auto next video
+// @name            Coursera - auto play next video
 // @description     Coursera Extension to automatically go to the next video when the video is over (prevents annoying purchase certificate banners)
 // @version         1.0
 // @namespace       https://www.github.com/sh0oki/coursera-autoplay
